@@ -12,7 +12,7 @@ Personal dotfiles for jeeves and other machines.
 Run the Claude skill to automatically install neovim and symlink everything:
 
 ```
-/setup
+/nvim-setup
 ```
 
 Or manually:
